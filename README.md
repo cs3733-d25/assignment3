@@ -11,7 +11,9 @@ This assignment is to be done in the same homework group of two as in the previo
   * Close any currently open projects.
   * Click on `Get from VCS` and enter the URL of your GitHub assignment2b repo
   * Select the directory for the repository
-* When you have completed the assignment, make sure to push your repository to your assignment3 GitHub repository. 
+* When you have completed the assignment, make sure to push your repository to your assignment3 GitHub repository by the deadline.
+  It is the resposibility of the teammate who is not pushing to the repository to confirm that the assignment was properly
+  submitted.
 
 Create a blank Vite React.js project in Webstorm with Typescript enabled:  
 Webstorm -> New Project -> Vite -> Template: react -> check Use TypeScript Template
