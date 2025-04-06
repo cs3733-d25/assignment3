@@ -32,7 +32,7 @@ See team coaching sessions for more information on forms.
     *	Brigham & Women’s Hospital Main Campus
     *	Chestnut Hill
     *	Faulkner Hospital
-    *		Patriot Place
+    *	Patriot Place
   *	Create two fields related to the medical device request system that is something other than a text input box or dropdown list.
     For example, checkbox, radio buttons, textarea, etc.
   *	Status of the request: Unassigned, Assigned, Working, and Done
