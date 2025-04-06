@@ -38,6 +38,6 @@ See team coaching sessions for more information on forms.
   *	Status of the request: Unassigned, Assigned, Working, and Done
   *	Submit button. When this button is pressed, the data in the form is saved into a useState.
 * `Requests.tsx` displays the submitted medical device requests. The data does not need to be persistent between application invocations.
-* Use Form.tsx and Requests.tsx in App.tsx to display a single page with the medical device request form, followed
+* Use `Form.tsx` and `Requests.tsx` in `App.tsx` to display a single page with the medical device request form, followed
   by a horizontal line, and then the list of requests.
   
